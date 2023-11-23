@@ -1,0 +1,155 @@
+C:\Users\ardda\Desktop\Projects\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.AssemblyReference.cache
+C:\Users\ardda\Desktop\Projects\Windows Hardware Monitor\obj\Debug\Windows_Hardware_Monitor.Properties.Resources.resources
+C:\Users\ardda\Desktop\Projects\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.GenerateResource.cache
+C:\Users\ardda\Desktop\Projects\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.CoreCompileInputs.cache
+C:\Users\ardda\Desktop\Projects\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.exe.config
+C:\Users\ardda\Desktop\Projects\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.exe
+C:\Users\ardda\Desktop\Projects\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.pdb
+C:\Users\ardda\Desktop\Projects\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.exe
+C:\Users\ardda\Desktop\Projects\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.pdb
+C:\Users\ardda\Desktop\Projects\Windows Hardware Monitor\obj\Debug\Windows_Hardware_Monitor.hardwaremonitor.resources
+G:\Other computers\Arda-NX\Desktop\Projects\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.exe.config
+G:\Other computers\Arda-NX\Desktop\Projects\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.exe
+G:\Other computers\Arda-NX\Desktop\Projects\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.pdb
+G:\Other computers\Arda-NX\Desktop\Projects\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.AssemblyReference.cache
+G:\Other computers\Arda-NX\Desktop\Projects\Windows Hardware Monitor\obj\Debug\Windows_Hardware_Monitor.hardwaremonitor.resources
+G:\Other computers\Arda-NX\Desktop\Projects\Windows Hardware Monitor\obj\Debug\Windows_Hardware_Monitor.Properties.Resources.resources
+G:\Other computers\Arda-NX\Desktop\Projects\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.GenerateResource.cache
+G:\Other computers\Arda-NX\Desktop\Projects\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.CoreCompileInputs.cache
+G:\Other computers\Arda-NX\Desktop\Projects\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.exe
+G:\Other computers\Arda-NX\Desktop\Projects\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.pdb
+C:\Users\ardda\Desktop\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.exe.config
+C:\Users\ardda\Desktop\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.exe
+C:\Users\ardda\Desktop\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.pdb
+C:\Users\ardda\Desktop\Windows Hardware Monitor\obj\Debug\Windows_Hardware_Monitor.hardwaremonitor.resources
+C:\Users\ardda\Desktop\Windows Hardware Monitor\obj\Debug\Windows_Hardware_Monitor.Properties.Resources.resources
+C:\Users\ardda\Desktop\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.GenerateResource.cache
+C:\Users\ardda\Desktop\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.CoreCompileInputs.cache
+C:\Users\ardda\Desktop\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.exe
+C:\Users\ardda\Desktop\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.pdb
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Desktop\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.exe.config
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Desktop\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.exe
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Desktop\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.pdb
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Desktop\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.AssemblyReference.cache
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Desktop\Windows Hardware Monitor\obj\Debug\Windows_Hardware_Monitor.hardwaremonitor.resources
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Desktop\Windows Hardware Monitor\obj\Debug\Windows_Hardware_Monitor.Properties.Resources.resources
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Desktop\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.GenerateResource.cache
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Desktop\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.CoreCompileInputs.cache
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Desktop\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.exe
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Desktop\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.pdb
+C:\Users\ardda\Desktop\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.AssemblyReference.cache
+C:\Users\ardda\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.exe.config
+C:\Users\ardda\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.exe
+C:\Users\ardda\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.pdb
+C:\Users\ardda\Windows Hardware Monitor\obj\Debug\Windows_Hardware_Monitor.hardwaremonitor.resources
+C:\Users\ardda\Windows Hardware Monitor\obj\Debug\Windows_Hardware_Monitor.Properties.Resources.resources
+C:\Users\ardda\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.GenerateResource.cache
+C:\Users\ardda\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.CoreCompileInputs.cache
+C:\Users\ardda\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.exe
+C:\Users\ardda\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.pdb
+C:\Users\ardda\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.AssemblyReference.cache
+C:\Users\ardda\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.SuggestedBindingRedirects.cache
+G:\Drive'ım\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.exe.config
+G:\Drive'ım\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.exe
+G:\Drive'ım\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.pdb
+G:\Drive'ım\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.AssemblyReference.cache
+G:\Drive'ım\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.SuggestedBindingRedirects.cache
+G:\Drive'ım\Windows Hardware Monitor\obj\Debug\Windows_Hardware_Monitor.hardwaremonitor.resources
+G:\Drive'ım\Windows Hardware Monitor\obj\Debug\Windows_Hardware_Monitor.Properties.Resources.resources
+G:\Drive'ım\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.GenerateResource.cache
+G:\Drive'ım\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.CoreCompileInputs.cache
+G:\Drive'ım\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.exe
+G:\Drive'ım\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.pdb
+G:\Drive'ım\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.exe.manifest
+G:\Drive'ım\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.application
+G:\Drive'ım\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.exe.manifest
+G:\Drive'ım\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.application
+C:\Users\ardda\Arduino C#\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.exe.config
+C:\Users\ardda\Arduino C#\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.exe.manifest
+C:\Users\ardda\Arduino C#\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.application
+C:\Users\ardda\Arduino C#\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.exe
+C:\Users\ardda\Arduino C#\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.pdb
+C:\Users\ardda\Arduino C#\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.AssemblyReference.cache
+C:\Users\ardda\Arduino C#\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.SuggestedBindingRedirects.cache
+C:\Users\ardda\Arduino C#\Windows Hardware Monitor\obj\Debug\Windows_Hardware_Monitor.hardwaremonitor.resources
+C:\Users\ardda\Arduino C#\Windows Hardware Monitor\obj\Debug\Windows_Hardware_Monitor.Properties.Resources.resources
+C:\Users\ardda\Arduino C#\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.GenerateResource.cache
+C:\Users\ardda\Arduino C#\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.CoreCompileInputs.cache
+C:\Users\ardda\Arduino C#\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.exe.manifest
+C:\Users\ardda\Arduino C#\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.application
+C:\Users\ardda\Arduino C#\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.exe
+C:\Users\ardda\Arduino C#\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.pdb
+C:\Users\ardda\Desktop\Projects\Arduino C#\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.AssemblyReference.cache
+C:\Users\ardda\Desktop\Projects\Arduino C#\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.SuggestedBindingRedirects.cache
+C:\Users\ardda\Desktop\Projects\Arduino C#\Windows Hardware Monitor\obj\Debug\Windows_Hardware_Monitor.hardwaremonitor.resources
+C:\Users\ardda\Desktop\Projects\Arduino C#\Windows Hardware Monitor\obj\Debug\Windows_Hardware_Monitor.Properties.Resources.resources
+C:\Users\ardda\Desktop\Projects\Arduino C#\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.GenerateResource.cache
+C:\Users\ardda\Desktop\Projects\Arduino C#\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.CoreCompileInputs.cache
+C:\Users\ardda\Desktop\Projects\Arduino C#\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.exe
+C:\Users\ardda\Desktop\Projects\Arduino C#\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.pdb
+C:\Users\ardda\Desktop\Projects\Arduino C#\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.exe.config
+C:\Users\ardda\Desktop\Projects\Arduino C#\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.exe.manifest
+C:\Users\ardda\Desktop\Projects\Arduino C#\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.application
+C:\Users\ardda\Desktop\Projects\Arduino C#\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.exe
+C:\Users\ardda\Desktop\Projects\Arduino C#\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.pdb
+C:\Users\ardda\Desktop\Projects\Arduino C#\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.exe.manifest
+C:\Users\ardda\Desktop\Projects\Arduino C#\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.application
+G:\Diğer bilgisayarlar\Arda-NX\Desktop\Projects\Arduino C#\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.exe.config
+G:\Diğer bilgisayarlar\Arda-NX\Desktop\Projects\Arduino C#\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.exe.manifest
+G:\Diğer bilgisayarlar\Arda-NX\Desktop\Projects\Arduino C#\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.application
+G:\Diğer bilgisayarlar\Arda-NX\Desktop\Projects\Arduino C#\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.exe
+G:\Diğer bilgisayarlar\Arda-NX\Desktop\Projects\Arduino C#\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.pdb
+G:\Diğer bilgisayarlar\Arda-NX\Desktop\Projects\Arduino C#\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.AssemblyReference.cache
+G:\Diğer bilgisayarlar\Arda-NX\Desktop\Projects\Arduino C#\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.SuggestedBindingRedirects.cache
+G:\Diğer bilgisayarlar\Arda-NX\Desktop\Projects\Arduino C#\Windows Hardware Monitor\obj\Debug\Windows_Hardware_Monitor.hardwaremonitor.resources
+G:\Diğer bilgisayarlar\Arda-NX\Desktop\Projects\Arduino C#\Windows Hardware Monitor\obj\Debug\Windows_Hardware_Monitor.Properties.Resources.resources
+G:\Diğer bilgisayarlar\Arda-NX\Desktop\Projects\Arduino C#\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.GenerateResource.cache
+G:\Diğer bilgisayarlar\Arda-NX\Desktop\Projects\Arduino C#\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.CoreCompileInputs.cache
+G:\Diğer bilgisayarlar\Arda-NX\Desktop\Projects\Arduino C#\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.exe.manifest
+G:\Diğer bilgisayarlar\Arda-NX\Desktop\Projects\Arduino C#\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.application
+G:\Diğer bilgisayarlar\Arda-NX\Desktop\Projects\Arduino C#\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.exe
+G:\Diğer bilgisayarlar\Arda-NX\Desktop\Projects\Arduino C#\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.pdb
+C:\Users\ardda\Desktop\Projects\NEW Hardware Monitor\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.AssemblyReference.cache
+C:\Users\ardda\Desktop\Projects\NEW Hardware Monitor\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.SuggestedBindingRedirects.cache
+C:\Users\ardda\Desktop\Projects\NEW Hardware Monitor\Windows Hardware Monitor\obj\Debug\Windows_Hardware_Monitor.hardwaremonitor.resources
+C:\Users\ardda\Desktop\Projects\NEW Hardware Monitor\Windows Hardware Monitor\obj\Debug\Windows_Hardware_Monitor.Properties.Resources.resources
+C:\Users\ardda\Desktop\Projects\NEW Hardware Monitor\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.GenerateResource.cache
+C:\Users\ardda\Desktop\Projects\NEW Hardware Monitor\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.CoreCompileInputs.cache
+C:\Users\ardda\Desktop\Projects\NEW Hardware Monitor\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.exe
+C:\Users\ardda\Desktop\Projects\NEW Hardware Monitor\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.pdb
+C:\Users\ardda\Desktop\Projects\NEW Hardware Monitor\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.exe.config
+C:\Users\ardda\Desktop\Projects\NEW Hardware Monitor\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.exe.manifest
+C:\Users\ardda\Desktop\Projects\NEW Hardware Monitor\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.application
+C:\Users\ardda\Desktop\Projects\NEW Hardware Monitor\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.exe
+C:\Users\ardda\Desktop\Projects\NEW Hardware Monitor\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.pdb
+C:\Users\ardda\Desktop\Projects\NEW Hardware Monitor\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.exe.manifest
+C:\Users\ardda\Desktop\Projects\NEW Hardware Monitor\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.application
+G:\Diğer bilgisayarlar\Arda-NX\Desktop\Projects\NEW Hardware Monitor\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.exe.config
+G:\Diğer bilgisayarlar\Arda-NX\Desktop\Projects\NEW Hardware Monitor\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.exe.manifest
+G:\Diğer bilgisayarlar\Arda-NX\Desktop\Projects\NEW Hardware Monitor\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.application
+G:\Diğer bilgisayarlar\Arda-NX\Desktop\Projects\NEW Hardware Monitor\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.exe
+G:\Diğer bilgisayarlar\Arda-NX\Desktop\Projects\NEW Hardware Monitor\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.pdb
+G:\Diğer bilgisayarlar\Arda-NX\Desktop\Projects\NEW Hardware Monitor\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.AssemblyReference.cache
+G:\Diğer bilgisayarlar\Arda-NX\Desktop\Projects\NEW Hardware Monitor\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.SuggestedBindingRedirects.cache
+G:\Diğer bilgisayarlar\Arda-NX\Desktop\Projects\NEW Hardware Monitor\Windows Hardware Monitor\obj\Debug\Windows_Hardware_Monitor.hardwaremonitor.resources
+G:\Diğer bilgisayarlar\Arda-NX\Desktop\Projects\NEW Hardware Monitor\Windows Hardware Monitor\obj\Debug\Windows_Hardware_Monitor.Properties.Resources.resources
+G:\Diğer bilgisayarlar\Arda-NX\Desktop\Projects\NEW Hardware Monitor\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.GenerateResource.cache
+G:\Diğer bilgisayarlar\Arda-NX\Desktop\Projects\NEW Hardware Monitor\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.CoreCompileInputs.cache
+G:\Diğer bilgisayarlar\Arda-NX\Desktop\Projects\NEW Hardware Monitor\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.exe.manifest
+G:\Diğer bilgisayarlar\Arda-NX\Desktop\Projects\NEW Hardware Monitor\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.application
+G:\Diğer bilgisayarlar\Arda-NX\Desktop\Projects\NEW Hardware Monitor\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.exe
+G:\Diğer bilgisayarlar\Arda-NX\Desktop\Projects\NEW Hardware Monitor\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.pdb
+G:\Drive'ım\Projects\NEW Hardware Monitor\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.AssemblyReference.cache
+G:\Drive'ım\Projects\NEW Hardware Monitor\Windows Hardware Monitor\obj\Debug\Windows_Hardware_Monitor.hardwaremonitor.resources
+G:\Drive'ım\Projects\NEW Hardware Monitor\Windows Hardware Monitor\obj\Debug\Windows_Hardware_Monitor.Properties.Resources.resources
+G:\Drive'ım\Projects\NEW Hardware Monitor\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.GenerateResource.cache
+G:\Drive'ım\Projects\NEW Hardware Monitor\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.exe
+G:\Drive'ım\Projects\NEW Hardware Monitor\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.pdb
+G:\Drive'ım\Projects\NEW Hardware Monitor\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.exe.config
+G:\Drive'ım\Projects\NEW Hardware Monitor\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.exe.manifest
+G:\Drive'ım\Projects\NEW Hardware Monitor\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.application
+G:\Drive'ım\Projects\NEW Hardware Monitor\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.exe
+G:\Drive'ım\Projects\NEW Hardware Monitor\Windows Hardware Monitor\bin\Debug\Windows Hardware Monitor.pdb
+G:\Drive'ım\Projects\NEW Hardware Monitor\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.csproj.CoreCompileInputs.cache
+G:\Drive'ım\Projects\NEW Hardware Monitor\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.exe.manifest
+G:\Drive'ım\Projects\NEW Hardware Monitor\Windows Hardware Monitor\obj\Debug\Windows Hardware Monitor.application

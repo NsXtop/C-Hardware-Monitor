@@ -1,0 +1,9 @@
+C:\Users\ardda\Desktop\Windows Hardware Monitor\bin\x64\Debug\Windows Hardware Monitor.exe.config
+C:\Users\ardda\Desktop\Windows Hardware Monitor\bin\x64\Debug\Windows Hardware Monitor.exe
+C:\Users\ardda\Desktop\Windows Hardware Monitor\bin\x64\Debug\Windows Hardware Monitor.pdb
+C:\Users\ardda\Desktop\Windows Hardware Monitor\obj\x64\Debug\Windows_Hardware_Monitor.hardwaremonitor.resources
+C:\Users\ardda\Desktop\Windows Hardware Monitor\obj\x64\Debug\Windows_Hardware_Monitor.Properties.Resources.resources
+C:\Users\ardda\Desktop\Windows Hardware Monitor\obj\x64\Debug\Windows Hardware Monitor.csproj.GenerateResource.cache
+C:\Users\ardda\Desktop\Windows Hardware Monitor\obj\x64\Debug\Windows Hardware Monitor.csproj.CoreCompileInputs.cache
+C:\Users\ardda\Desktop\Windows Hardware Monitor\obj\x64\Debug\Windows Hardware Monitor.exe
+C:\Users\ardda\Desktop\Windows Hardware Monitor\obj\x64\Debug\Windows Hardware Monitor.pdb
